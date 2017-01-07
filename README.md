@@ -12,7 +12,7 @@ composer require iamtartan/laravel-xml-reponse
 Add in config/app.php in place providers
 
 ```php
-XmlResponse\XmlResponseServiceProvider::class
+Tartan\XmlResponse\XmlResponseServiceProvider::class
 ```
 
 ### Publish
