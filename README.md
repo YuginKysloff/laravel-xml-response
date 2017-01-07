@@ -4,7 +4,7 @@ Added a method to Laravel response for handling xml response and also converting
 ### Composer Installation
 
 ```php
-composer require iamtartan/laravel-xml-reponse
+composer require iamtartan/laravel-xml-repsonse
 ```
 
 ### Integration with Laravel 5.*
