@@ -1,0 +1,16 @@
+{
+    "name": "iamtartan/laravel-xml-response",
+    "description": "Added a method to Laravel response for handling xml response and also converting Eloquent return to XML.",
+    "keywords": ["xml", "laravel", "eloquent", "response"],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.5.9",
+        "illuminate/support": "5.x.x"
+    },
+    "autoload": {
+        "psr-4": {
+            "Tartan\\XmlResponse\\": "src/XmlResponse"
+        }
+    },
+    "minimum-stability": "stable"
+}
